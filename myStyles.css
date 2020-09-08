@@ -1,0 +1,83 @@
+
+/* color pallette*
+
+
+#D4C5E2 - thistle
+#C9D7F8 periwinkle
+#A7E2E3 seafoam blue
+#80CFA9 medium aquamarine
+#4C6663 dusty green
+
+
+IN TUTORIAL
+#F7FFF7 - almost white
+#343434 - dark grey - almost black
+#2F3061 - blue dark
+#FFE55D - yellow
+#A1C6D7 - blue light
+*/
+
+/*Global Styles
+----------------------------------------*/
+body {
+    color: #343434;
+}
+img {
+    width: 300px;
+}
+
+a{
+    color: #3868d893;
+}
+a:hover{
+    text-decoration: none;
+}
+
+
+/*Profile
+----------------------------------------*/
+header {
+    background: #CEB6E3;
+    color: #224108;
+}
+/*Projects
+----------------------------------------*/
+.projects {
+    background: #F7FFF7;
+}
+
+.projects a {
+    color: #2F3061;
+
+}
+.projects .btn {
+    color: #342244;
+    background: #D4C5E2;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.projects .btn:hover {
+    background: rgbA(212, 197, 226, 80%);
+
+}
+
+/*Work Experience
+----------------------------------------*/
+.work-experience {
+    background: #A7E2E3;
+}
+
+
+/*Education
+----------------------------------------*/
+
+/*Contact Info
+----------------------------------------*/
+footer {
+    background: #343434;
+    color: #F7FFF7;
+}
+
+
